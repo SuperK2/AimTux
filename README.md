@@ -1,12 +1,8 @@
-![banner](http://aimtux.net/images/banner.png)
 
-[![Join the chat at https://www.gitter.im/AimTuxOfficial/lobby](https://img.shields.io/gitter/room/TechnologyAdvice/Stardust.svg?style=flat-square)](https://www.gitter.im/AimTuxOfficial/lobby)
 
-Want to chat or play with other AimTux users? Join us on Gitter!
+## What is PortalCheto?
 
-## What is AimTux?
-
-AimTux is a fully featured internal hack for *CounterStrike : Global Offensive* written in C++.
+En Junio de 2017 ... tras muuuucho tiempo sin jugar al Counter Strike, sobre todo por haber abandonado la plataforma Windows  pla y llevar mucho AimTux is a fully featured internal hack for *CounterStrike : Global Offensive* written in C++.
 
 
 ## Compiling
